@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Govind Chandrashekhar Turkar</h1>
-<h3 align="center">Full Stack Developer Intern @ KodeKalp Global Technologies | Final-Year CSE Student | Building with AI/ML</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A90D9&height=220&section=header&text=Govind%20Chandrashekhar%20Turkar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20Intern%20%40%20KodeKalp%20%7C%20AI%2FML%20Enthusiast&descAlignY=52&descSize=18&descColor=E8EEF7" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="mailto:govindturkar69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/govindturkar69-crypto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+GH+Raisoni;Full+Stack+Developer+Intern+%40+KodeKalp;Building+with+React%2C+Node.js+%26+FastAPI;Exploring+AI%2FML%2C+RAG+%26+LLMs" />
+</p>
+
+<p align="center">
+  <a href="mailto:govindturkar69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/govindturkar69-crypto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&color=1F3864&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
@@ -20,119 +24,99 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
+**Languages**  
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
+ 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
+ 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
-**Frontend**
-
+**Frontend**  
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-
+ 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-
-
+ 
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
-
+ 
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 
-**Backend**
-
+**Backend**  
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-
+ 
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
-
+ 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
 
-**Databases**
-
+**Databases**  
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
+ 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
+ 
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 
-**AI / ML**
-
+**AI / ML**  
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-
-
+ 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-
-
+ 
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 
-**Tools & Platforms**
-
+**Tools & Platforms**  
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+ 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
+ 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
+ 
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
@@ -143,42 +127,53 @@
 ### 🔭 Featured Projects
 
 #### 🧩 [NexusCode](https://github.com/govindturkar69-crypto/NexusCode) — AI-Powered Software Development Platform
-Final-year project combining Kanban project management, an in-browser Monaco code editor, real-time collaboration, and AI-assisted development.
+Final-year project combining Kanban project management, an in-browser Monaco code editor, real-time collaboration, and AI-assisted development.  
 `React 19` `Vite` `FastAPI` `PostgreSQL` `WebSockets` `Gemini API` `Docker` — **Live**: frontend on Vercel, backend on Render
 
 #### 🏠 [RealtyIQ](https://github.com/govindturkar69-crypto/RealtyIQ) — Full-Stack ML Real Estate Price Prediction
-End-to-end price prediction platform for Indian real estate, trained on a real Kaggle dataset.
+End-to-end price prediction platform for Indian real estate, trained on a real Kaggle dataset.  
 `FastAPI` `scikit-learn` `XGBoost` `SHAP` `Express` `MongoDB` `Next.js 14`
 
 #### 📄 [VeriDoc](https://github.com/govindturkar69-crypto/VeriDoc) — RAG-Based Citation-Grounded Q&A Assistant
-Retrieval-Augmented Generation assistant that answers questions over institutional documents with grounded citations.
+Retrieval-Augmented Generation assistant that answers questions over institutional documents with grounded citations.  
 `Python` `RAG`
 
 #### 📈 [stock-price-lstm](https://github.com/govindturkar69-crypto/stock-price-lstm) — Stock Price & Direction Prediction
-Deep learning pipeline using an LSTM (PyTorch) with leakage-safe features, log-return targets, and honest walk-forward evaluation.
+Deep learning pipeline using an LSTM (PyTorch) with leakage-safe features, log-return targets, and honest walk-forward evaluation.  
 `Python` `PyTorch` `Streamlit` `yfinance`
 
 #### 🌦️ [aurora-weather](https://github.com/govindturkar69-crypto/aurora-weather) — Live Weather App
-Built during my internship at KodeKalp — real-time forecasts, air quality index, moon-phase tracking, and an animated UI.
+Built during my internship at KodeKalp — real-time forecasts, air quality index, moon-phase tracking, and an animated UI.  
 `React` `Vite` `Node/Express` `TypeScript` `Redis` — deployed on Vercel, Render & Upstash
 
 #### ✍️ [my-blog-app](https://github.com/govindturkar69-crypto/my-blog-app) — Multi-Page Blog
-Built with Next.js 14 App Router, Server Components & Server Actions, live search, tag filtering, and SEO metadata.
+Built with Next.js 14 App Router, Server Components & Server Actions, live search, tag filtering, and SEO metadata.  
 `Next.js 14` `Tailwind CSS`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=govindturkar69-crypto&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindturkar69-crypto&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindturkar69-crypto&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=govindturkar69-crypto&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govindturkar69-crypto&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:1F3864&height=100&section=footer" width="100%"/>
+</p>
 
 <p align="center"><i>Thanks for stopping by — always open to interesting full-stack and AI/ML collaborations!</i></p>

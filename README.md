@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A90D9&height=220&section=header&text=Govind%20Chandrashekhar%20Turkar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20Intern%20%40%20KodeKalp%20%7C%20AI%2FML%20Enthusiast&descAlignY=52&descSize=18&descColor=E8EEF7" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&background=0D1117&center=true&vCenter=true&width=750&height=140&lines=%24+whoami;%3E+Govind+Chandrashekhar+Turkar;%24+cat+role.txt;%3E+Full+Stack+Developer+Intern+%40+KodeKalp;%24+echo+%24STACK;%3E+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Python" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+GH+Raisoni;Full+Stack+Developer+Intern+%40+KodeKalp;Building+with+React%2C+Node.js+%26+FastAPI;Exploring+AI%2FML%2C+RAG+%26+LLMs" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+GH+Raisoni;Full+Stack+Developer+Intern+%40+KodeKalp;Exploring+AI%2FML%2C+RAG+%26+LLMs" />
 </p>
 
 <p align="center">
@@ -24,103 +28,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,tailwind,nodejs,express,fastapi,mongodb,postgres,redis,pytorch,git,github,docker,vercel" />
+</p>
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
- 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
- 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-**Frontend**  
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
- 
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
- 
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
- 
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-
-**Backend**  
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
- 
-
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
- 
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-
-
-**Databases**  
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
- 
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
- 
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-
-
-**AI / ML**  
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
- 
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
- 
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-
-
-**Tools & Platforms**  
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
- 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
- 
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
- 
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-
+<p align="center"><i>Also using: scikit-learn · XGBoost · Gemini API · Render · JWT Auth · WebSockets · REST APIs</i></p>
 
 ---
 

@@ -67,7 +67,7 @@ Built with Next.js 14 App Router, Server Components & Server Actions, live searc
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Built with Next.js 14 App Router, Server Components & Server Actions, live searc
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=govindturkar69-crypto&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=govindturkar69-crypto&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">

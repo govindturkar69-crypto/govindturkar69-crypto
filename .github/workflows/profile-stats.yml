@@ -25,7 +25,7 @@ jobs:
         with:
           username: govindturkar69-crypto
           output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push
         run: |

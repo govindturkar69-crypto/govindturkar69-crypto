@@ -75,7 +75,7 @@ Built with Next.js 14 App Router, Server Components & Server Actions, live searc
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=govindturkar69-crypto&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=govindturkar69-crypto&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">

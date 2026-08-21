@@ -71,7 +71,7 @@ Built with Next.js 14 App Router, Server Components & Server Actions, live searc
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=govindturkar69-crypto&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=govindturkar69-crypto&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 <p align="center">

@@ -36,60 +36,53 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <img
   align="right"
-  width="320"
+  width="310"
   src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-9a50-5cfc0f86af3c.gif"
   alt="Developer Animation"
 />
 
 I'm **Govind Turkar**, a final-year **B.Tech Computer Science & Engineering** student and **Full Stack Developer Intern at KodeKalp Global Technologies**.
 
-I enjoy building complete software products — from responsive user interfaces and backend APIs to databases, AI integrations, deployment, automation, and developer tooling.
+I enjoy building complete software products — from responsive interfaces and backend APIs to databases, AI integrations, automation, deployment, and developer tooling.
 
 - 🚀 Building **production-oriented full-stack applications**
 - ⚙️ Interested in **backend engineering, APIs, databases & system design**
 - 🤖 Exploring **RAG, LLMs, AI Agents & applied machine learning**
-- 🛠️ Building **developer tools, automation systems & intelligent applications**
-- 🧠 Strengthening **DSA, system design & software architecture**
-- 🌐 Working with **React, Next.js, Node.js, FastAPI & Python**
+- 🛠️ Building **developer tools and intelligent automation systems**
+- 🧠 Strengthening **DSA, software architecture & system design**
 - 🤝 Open to **Software Engineering, Backend, Full-Stack & AI opportunities**
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" />
 
-<br/>
+### AI / ML & Developer Tools
 
-### AI / ML & Development Tools
-
-<img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,vercel&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square"/>
@@ -103,7 +96,7 @@ I enjoy building complete software products — from responsive user interfaces 
 
 ---
 
-# 🚀 Flagship Projects
+## 🚀 Flagship Projects
 
 <table>
 
@@ -115,7 +108,7 @@ I enjoy building complete software products — from responsive user interfaces 
 
 **AI-Powered Collaborative Development Platform**
 
-A browser-based software development workspace combining project management, coding, collaboration, and AI-assisted development.
+A browser-based software development workspace combining project management, coding, real-time collaboration, and AI-assisted development.
 
 **Highlights**
 
@@ -145,7 +138,7 @@ A browser-based software development workspace combining project management, cod
 
 A developer-tooling project focused on CI failure analysis, automated recovery, and software-delivery reliability.
 
-**Focus**
+**Highlights**
 
 - CI/CD automation
 - Failure detection
@@ -190,7 +183,7 @@ A modern AI-focused project exploring intelligent workflows, application archite
 
 **ML-Powered Real Estate Analytics Platform**
 
-End-to-end real-estate analytics platform with machine-learning price prediction and model explainability.
+An end-to-end real estate analytics application with machine-learning price prediction and model explainability.
 
 **Highlights**
 
@@ -198,7 +191,7 @@ End-to-end real-estate analytics platform with machine-learning price prediction
 - XGBoost modeling
 - SHAP explainability
 - JWT authentication
-- REST APIs
+- REST API integration
 - Full-stack dashboard
 
 **Stack**
@@ -218,7 +211,7 @@ End-to-end real-estate analytics platform with machine-learning price prediction
 
 ---
 
-# 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <table>
 
@@ -230,7 +223,7 @@ End-to-end real-estate analytics platform with machine-learning price prediction
 
 **Citation-Grounded RAG Assistant**
 
-A document intelligence system that answers questions using retrieved source material and citation-grounded responses.
+Document intelligence system designed to answer questions using retrieved source material and grounded responses.
 
 **Focus**
 
@@ -249,13 +242,13 @@ A document intelligence system that answers questions using retrieved source mat
 
 **Deep-Learning Time-Series Pipeline**
 
-LSTM-based stock-price and direction-prediction project with realistic time-series evaluation.
+LSTM-based stock-price and market-direction prediction with leakage-aware features and walk-forward evaluation.
 
 **Focus**
 
 - PyTorch LSTM
 - Leakage-safe features
-- Log-return prediction
+- Log-return targets
 - Walk-forward evaluation
 
 `Python` `PyTorch` `Streamlit` `yfinance`
@@ -296,23 +289,17 @@ Recruitment platform combining candidate management, hiring workflows, analytics
 
 ---
 
-# ⚙️ Backend & Systems Engineering
+## ⚙️ Backend & Systems Engineering
 
 ### 🧱 [Build Your Own Redis in Java](https://github.com/govindturkar69-crypto/build-your-own-redis-in-java)
 
 A systems-oriented implementation exploring concepts behind an in-memory key-value database.
 
-**Concepts**
-
 `Java` · `Networking` · `Data Structures` · `Caching` · `Backend Internals`
-
----
 
 ### 🔌 [Product Store API](https://github.com/govindturkar69-crypto/Product-Store-API)
 
 REST API project focused on clean backend architecture and CRUD service design.
-
----
 
 ### 🔄 [Cross-Stack CRUD](https://github.com/govindturkar69-crypto/Cross-Stack-CRUD)
 
@@ -320,7 +307,7 @@ Experiment comparing CRUD implementations across multiple technology stacks.
 
 ---
 
-# 🌐 More Projects
+## 🌐 More Projects
 
 <details>
 
@@ -360,55 +347,73 @@ Responsive modern landing-page implementation.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9"
-  alt="GitHub Statistics"
-/>
+<table>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
 
 <img
-  width="49%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"
-  alt="Most Used Languages"
+  src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9"
+  width="470"
+  height="220"
+  alt="Govind Turkar GitHub Stats"
 />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"
+  width="470"
+  height="220"
+  alt="Govind Turkar Most Used Languages"
+/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
-### 🔥 Contribution Streak
-
 <img
   src="./profile/streak.svg"
-  width="62%"
-  alt="GitHub Contribution Streak"
+  width="650"
+  alt="Govind Turkar GitHub Contribution Streak"
 />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img
   src="./trophy.svg"
   width="100%"
-  alt="GitHub Trophies"
+  alt="Govind Turkar GitHub Trophies"
 />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -427,7 +432,7 @@ Responsive modern landing-page implementation.
   <img
     src="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="GitHub Contribution Snake"
+    alt="Govind Turkar GitHub Contribution Snake"
   />
 
 </picture>
@@ -436,7 +441,7 @@ Responsive modern landing-page implementation.
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -449,10 +454,48 @@ Responsive modern landing-page implementation.
 
 <br/>
 
-```text
-→ Building scalable backend systems
-→ Designing production-ready full-stack applications
-→ Exploring RAG, AI Agents and LLM integrations
-→ Building developer tools and automation systems
-→ Learning system design and distributed architectures
-→ Strengthening DSA and software engineering fundamentals
+> ⚙️ Building scalable backend systems  
+> 🚀 Designing production-ready full-stack applications  
+> 🤖 Exploring RAG, AI Agents and LLM integrations  
+> 🛠️ Building developer tools and automation systems  
+> 🧠 Learning system design and distributed architectures  
+> 💻 Strengthening DSA and software engineering fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Open to building useful things with great people.
+
+**Full-Stack Development · Backend Engineering · AI/ML · Developer Tools · Open Source**
+
+<br/>
+
+<a href="mailto:govindturkar69@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<a href="https://www.linkedin.com/in/govind-turkar24">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=720&lines=Build.+Ship.+Learn.+Improve.;Write+clean+code.+Solve+real+problems.;One+commit+at+a+time."
+  alt="Footer Animation"
+/>
+
+<br/>
+
+### `Build systems that work. Then make them better.`
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:161B22,100:0D1117&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>

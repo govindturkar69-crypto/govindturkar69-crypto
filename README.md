@@ -1,91 +1,231 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=D4AF37&background=0D1117&center=true&vCenter=true&width=750&height=140&lines=%24+whoami;%3E+Govind+Chandrashekhar+Turkar;%24+cat+role.txt;%3E+Full+Stack+Developer+Intern+%40+KodeKalp;%24+echo+%24STACK;%3E+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Python" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420">
-</p>
+# Hi, I'm Govind Turkar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=C9D1D9&background=0D1117&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student+%40+GH+Raisoni;Full+Stack+Developer+Intern+%40+KodeKalp;Exploring+AI%2FML%2C+RAG+%26+LLMs" />
-</p>
+### Full-Stack Developer · Backend & AI/ML
 
-<p align="center">
-  <a href="mailto:govindturkar69@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a> <a href="https://github.com/govindturkar69-crypto"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=0D1117" /></a> <img src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&color=D4AF37&style=for-the-badge&label=Profile+Views" />
-</p>
+Building scalable web applications and practical AI-powered systems.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Full-Stack+Engineering+%2B+Applied+AI%2FML" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/>
 
-- 🎓 Final-year **B.Tech in Computer Science & Engineering** at G H Raisoni College of Engineering, Nagpur (2023–2027)
-- 💼 Currently interning as a **Full Stack Developer Intern** at **KodeKalp Global Technologies** (Remote)
-- 🧠 Focused on **Full Stack Web Development** and **AI/ML** — from React/Next.js frontends to FastAPI + PyTorch backends
-- 🌱 Building projects that combine practical web engineering with applied AI (RAG, LLMs, predictive ML)
-- 📫 Reach me at **govindturkar69@gmail.com**
+<a href="mailto:govindturkar69@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/govind-turkar24">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://govind-turkar-portfolio.turkargovind3.chatgpt.site">
+<img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,tailwind,nodejs,express,fastapi,mongodb,postgres,redis,pytorch,git,github,docker,vercel&theme=dark" />
-</p>
+I'm a final-year **B.Tech Computer Science & Engineering** student and **Full Stack Developer Intern at KodeKalp Global Technologies**.
 
-<p align="center"><i>Also using: scikit-learn · XGBoost · Gemini API · Render · JWT Auth · WebSockets · REST APIs</i></p>
+I enjoy turning ideas into complete products — designing responsive interfaces, building APIs and backend systems, working with databases, and integrating machine learning and LLM-powered features.
+
+* 🔭 Building **full-stack and AI-powered applications**
+* ⚙️ Interested in **backend architecture, APIs, databases & scalable systems**
+* 🤖 Exploring **RAG, LLM applications and applied machine learning**
+* 🧠 Strengthening **DSA and software engineering fundamentals**
+* 🤝 Open to **internships, software engineering opportunities & collaborations**
 
 ---
 
-### 🔭 Featured Projects
+## ⚡ Tech Stack
 
-#### 🧩 [NexusCode](https://github.com/govindturkar69-crypto/NexusCode) — AI-Powered Software Development Platform
-Final-year project combining Kanban project management, an in-browser Monaco code editor, real-time collaboration, and AI-assisted development.  
-`React 19` `Vite` `FastAPI` `PostgreSQL` `WebSockets` `Gemini API` `Docker` — **Live**: frontend on Vercel, backend on Render
+<div align="center">
 
-#### 🏠 [RealtyIQ](https://github.com/govindturkar69-crypto/RealtyIQ) — Full-Stack ML Real Estate Price Prediction
-End-to-end price prediction platform for Indian real estate, trained on a real Kaggle dataset.  
-`FastAPI` `scikit-learn` `XGBoost` `SHAP` `Express` `MongoDB` `Next.js 14`
+### Languages
 
-#### 📄 [VeriDoc](https://github.com/govindturkar69-crypto/VeriDoc) — RAG-Based Citation-Grounded Q&A Assistant
-Retrieval-Augmented Generation assistant that answers questions over institutional documents with grounded citations.  
-`Python` `RAG`
+<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" />
 
-#### 📈 [stock-price-lstm](https://github.com/govindturkar69-crypto/stock-price-lstm) — Stock Price & Direction Prediction
-Deep learning pipeline using an LSTM (PyTorch) with leakage-safe features, log-return targets, and honest walk-forward evaluation.  
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" />
+
+### AI/ML & Tools
+
+<img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,vercel&theme=dark" />
+
+<br/>
+
+`scikit-learn` · `XGBoost` · `SHAP` · `Gemini API` · `REST APIs` · `WebSockets` · `JWT` · `Render` · `Upstash`
+
+</div>
+
+---
+
+# 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [NexusCode](https://github.com/govindturkar69-crypto/NexusCode)
+
+**AI-Powered Software Development Platform**
+
+Collaborative development workspace combining project management, browser-based coding, real-time communication and AI-assisted development.
+
+**Highlights**
+
+* Kanban project management
+* Monaco browser code editor
+* Real-time WebSocket collaboration
+* Gemini-powered AI assistance
+* Dockerized backend
+
+**Stack**
+
+`React 19` `FastAPI` `PostgreSQL`
+`WebSockets` `Gemini` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 [RealtyIQ](https://github.com/govindturkar69-crypto/RealtyIQ)
+
+**ML-Powered Real Estate Platform**
+
+End-to-end property analytics and price-prediction application built around Indian real-estate data.
+
+**Highlights**
+
+* ML-based price prediction
+* XGBoost modeling
+* SHAP explainability
+* JWT authentication
+* Full-stack dashboard
+
+**Stack**
+
+`Next.js` `FastAPI` `Express`
+`MongoDB` `XGBoost` `SHAP`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [VeriDoc](https://github.com/govindturkar69-crypto/VeriDoc)
+
+**Citation-Grounded RAG Assistant**
+
+Document intelligence system designed to answer questions using retrieved institutional information with source-grounded responses.
+
+**Highlights**
+
+* Document retrieval
+* RAG pipeline
+* LLM-powered Q&A
+* Citation grounding
+
+**Stack**
+
+`Python` `RAG` `LLMs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 [Stock Price LSTM](https://github.com/govindturkar69-crypto/stock-price-lstm)
+
+**Deep-Learning Time-Series Pipeline**
+
+LSTM-based stock price and direction prediction project focused on realistic time-series evaluation.
+
+**Highlights**
+
+* PyTorch LSTM
+* Leakage-safe features
+* Log-return targets
+* Walk-forward evaluation
+
+**Stack**
+
 `Python` `PyTorch` `Streamlit` `yfinance`
 
-#### 🌦️ [aurora-weather](https://github.com/govindturkar69-crypto/aurora-weather) — Live Weather App
-Built during my internship at KodeKalp — real-time forecasts, air quality index, moon-phase tracking, and an animated UI.  
-`React` `Vite` `Node/Express` `TypeScript` `Redis` — deployed on Vercel, Render & Upstash
+</td>
+</tr>
+</table>
 
-#### ✍️ [my-blog-app](https://github.com/govindturkar69-crypto/my-blog-app) — Multi-Page Blog
-Built with Next.js 14 App Router, Server Components & Server Actions, live search, tag filtering, and SEO metadata.  
-`Next.js 14` `Tailwind CSS`
+<details>
+<summary><b>🌦️ More Projects</b></summary>
 
----
+<br/>
 
-### 📊 GitHub Stats & Activity
+### [Aurora Weather](https://github.com/govindturkar69-crypto/aurora-weather)
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" />
-</p>
+Real-time weather application featuring forecasts, air-quality information, moon phases and an animated responsive interface.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=govindturkar69-crypto&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
-</p>
+`React` · `Vite` · `TypeScript` · `Node.js` · `Express` · `Redis`
 
-<p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophy" />
-</p>
+### [My Blog App](https://github.com/govindturkar69-crypto/my-blog-app)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govindturkar69-crypto&hide_border=true&bg_color=0D1117&color=58A6FF&line=D4AF37&point=D4AF37" />
-</p>
+Modern multi-page blog built with Next.js App Router, Server Components, Server Actions, live search, tag filtering and SEO metadata.
+
+`Next.js 14` · `React` · `Tailwind CSS`
+
+</details>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:D4AF37&height=100&section=footer" width="100%"/>
-</p>
+## 📊 GitHub Activity
 
-<p align="center"><i>Thanks for stopping by — always open to interesting full-stack and AI/ML collaborations!</i></p>
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=D4AF37&text_color=C9D1D9" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govindturkar69-crypto&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=D4AF37" width="95%" />
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+```text
+Full-Stack Engineering     ████████████████████
+Backend & APIs             ███████████████████░
+AI / Machine Learning      █████████████████░░░
+RAG & LLM Applications     ████████████████░░░░
+Cloud & DevOps             █████████████░░░░░░░
+```
+
+My current focus is building **production-oriented full-stack applications**, improving backend architecture, and integrating **AI/ML where it solves a meaningful problem**.
+
+---
+
+<div align="center">
+
+### Let's Build Something Useful 🚀
+
+I'm open to software development opportunities and interesting
+**Full-Stack · Backend · AI/ML** collaborations.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&color=58A6FF&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+*"Build systems that work. Then make them better."*
+
+</div>

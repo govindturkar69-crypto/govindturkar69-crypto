@@ -1,13 +1,13 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:D4AF37&height=210&section=header&text=Govind%20Turkar&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML&descSize=18&descAlignY=54"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:D4AF37&height=210&section=header&text=Govind%20Turkar&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI-Integrated%20Applications&descSize=17&descAlignY=54"
   width="100%"
   alt="Govind Turkar"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;Designing+Reliable+Backend+Systems;Exploring+RAG%2C+LLMs+%26+AI+Agents;Building+Developer+Tools+%26+AI-Powered+Products"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Full-Stack+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Designing+Reliable+Backend+Systems;Integrating+AI%2FML+Into+Real+Products"
   alt="Typing Animation"
 />
 
@@ -47,14 +47,15 @@
 
 I'm **Govind Turkar**, a final-year **B.Tech Computer Science & Engineering** student and **Full Stack Developer Intern at KodeKalp Global Technologies**.
 
-I enjoy building complete software products — from responsive interfaces and backend APIs to databases, AI integrations, automation, deployment, and developer tooling.
+I build end-to-end web applications — from modern frontend interfaces to backend APIs, databases, authentication, deployment, real-time systems, and AI-powered features.
 
-- 🚀 Building **production-oriented full-stack applications**
-- ⚙️ Interested in **backend engineering, APIs, databases & system design**
+- 🚀 Focused on **Full-Stack Software Development**
+- ⚙️ Interested in **Backend Engineering, APIs, Databases & System Design**
+- 🌐 Working with **React, Next.js, Node.js, FastAPI & Python**
+- 🧩 Building **real-world products with frontend + backend + database integration**
 - 🤖 Exploring **RAG, LLMs, AI Agents & applied machine learning**
-- 🛠️ Building **developer tools and intelligent automation systems**
-- 🧠 Strengthening **DSA, software architecture & system design**
-- 🤝 Open to **Software Engineering, Backend, Full-Stack & AI opportunities**
+- 🛠️ Interested in **developer tools, automation & scalable systems**
+- 🤝 Open to **Full-Stack, Backend & Software Engineering opportunities**
 
 <br clear="right"/>
 
@@ -76,7 +77,7 @@ I enjoy building complete software products — from responsive interfaces and b
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" />
 
-### AI / ML & Developer Tools
+### AI / ML & DevOps
 
 <img src="https://skillicons.dev/icons?i=pytorch,docker,git,github,vercel&theme=dark" />
 
@@ -91,407 +92,62 @@ I enjoy building complete software products — from responsive interfaces and b
 <img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Render-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Upstash-0D1117?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🚀 Flagship Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 [NexusCode](https://github.com/govindturkar69-crypto/NexusCode)
-
-**AI-Powered Collaborative Development Platform**
-
-A browser-based software development workspace combining project management, coding, real-time collaboration, and AI-assisted development.
-
-**Highlights**
-
-- Monaco browser code editor
-- Kanban project management
-- Real-time WebSocket collaboration
-- Gemini-powered AI assistant
-- PostgreSQL backend
-- Dockerized architecture
-
-**Stack**
-
-`React` `FastAPI` `PostgreSQL`  
-`WebSockets` `Gemini API` `Docker`
-
-<br/>
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/NexusCode)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ [SelfHealCI](https://github.com/govindturkar69-crypto/SelfHealCI)
-
-**Self-Healing CI & Developer Automation**
-
-A developer-tooling project focused on CI failure analysis, automated recovery, and software-delivery reliability.
-
-**Highlights**
-
-- CI/CD automation
-- Failure detection
-- Developer tooling
-- Automated recovery
-- Engineering reliability
-
-<br/>
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/SelfHealCI)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 [Spatial Craft AI](https://github.com/govindturkar69-crypto/Spatial-Craft-AI)
-
-**AI-Oriented Application Engineering**
-
-A modern AI-focused project exploring intelligent workflows, application architecture, and practical AI integration.
-
-**Focus**
-
-`AI Engineering`  
-`Applied AI`  
-`Full Stack`  
-`Intelligent Workflows`
-
-<br/>
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/Spatial-Craft-AI)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏠 [RealtyIQ](https://github.com/govindturkar69-crypto/RealtyIQ)
-
-**ML-Powered Real Estate Analytics Platform**
-
-An end-to-end real estate analytics application with machine-learning price prediction and model explainability.
-
-**Highlights**
-
-- Property price prediction
-- XGBoost modeling
-- SHAP explainability
-- JWT authentication
-- REST API integration
-- Full-stack dashboard
-
-**Stack**
-
-`Next.js` `FastAPI` `Express`  
-`MongoDB` `XGBoost` `SHAP`
-
-<br/>
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/RealtyIQ)
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🤖 AI & Machine Learning
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📄 [VeriDoc](https://github.com/govindturkar69-crypto/VeriDoc)
-
-**Citation-Grounded RAG Assistant**
-
-Document intelligence system designed to answer questions using retrieved source material and grounded responses.
-
-**Focus**
-
-- Retrieval-Augmented Generation
-- Document retrieval
-- LLM-powered Q&A
-- Citation grounding
-
-`Python` `RAG` `LLMs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 [Stock Price LSTM](https://github.com/govindturkar69-crypto/stock-price-lstm)
-
-**Deep-Learning Time-Series Pipeline**
-
-LSTM-based stock-price and market-direction prediction with leakage-aware features and walk-forward evaluation.
-
-**Focus**
-
-- PyTorch LSTM
-- Leakage-safe features
-- Log-return targets
-- Walk-forward evaluation
-
-`Python` `PyTorch` `Streamlit` `yfinance`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 [LearnAgent](https://github.com/govindturkar69-crypto/LearnAgent)
-
-**AI Agent Experimentation**
-
-Exploring agent-based software workflows and intelligent application automation.
-
-`AI Agents` `LLMs` `Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👥 [TalentAI](https://github.com/govindturkar69-crypto/TalentAI-Recruitment-Platform)
-
-**AI-Powered Recruitment Platform**
-
-Recruitment platform combining candidate management, hiring workflows, analytics, and AI-assisted recruitment features.
-
-`Full Stack` `AI` `Analytics`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## ⚙️ Backend & Systems Engineering
-
-### 🧱 [Build Your Own Redis in Java](https://github.com/govindturkar69-crypto/build-your-own-redis-in-java)
-
-A systems-oriented implementation exploring concepts behind an in-memory key-value database.
-
-`Java` · `Networking` · `Data Structures` · `Caching` · `Backend Internals`
-
-### 🔌 [Product Store API](https://github.com/govindturkar69-crypto/Product-Store-API)
-
-REST API project focused on clean backend architecture and CRUD service design.
-
-### 🔄 [Cross-Stack CRUD](https://github.com/govindturkar69-crypto/Cross-Stack-CRUD)
-
-Experiment comparing CRUD implementations across multiple technology stacks.
-
----
-
-## 🌐 More Projects
-
-<details>
-
-<summary><b>Click to explore additional projects</b></summary>
-
-<br/>
-
-### 🌦️ [Aurora Weather](https://github.com/govindturkar69-crypto/aurora-weather)
-
-Real-time weather application featuring forecasts, AQI monitoring, moon phases, Redis caching, and an animated responsive interface.
-
-`React` · `Vite` · `TypeScript` · `Node.js` · `Express` · `Redis`
-
----
-
-### ✍️ [My Blog App](https://github.com/govindturkar69-crypto/my-blog-app)
-
-Modern blog built with Next.js App Router, Server Components, Server Actions, search, filtering, and SEO metadata.
-
-`Next.js` · `React` · `Tailwind CSS`
-
----
-
-### 🎓 [Placement Analytics](https://github.com/govindturkar69-crypto/Placement-Analytics)
-
-Placement-management and analytics platform supporting student, company, placement, authentication, and reporting workflows.
-
-`Python` · `Flask` · `MySQL` · `Analytics`
-
----
-
-### 🦷 [Denteex Landing Page](https://github.com/govindturkar69-crypto/Denteex-Landing-Page)
-
-Responsive modern landing-page implementation.
-
-</details>
-
----
-
-## 📊 GitHub Analytics
+# 🌟 Featured Full-Stack Project
 
 <div align="center">
 
-<table>
+## 🧩 NexusCode
 
-<tr>
+### AI-Powered Collaborative Software Development Platform
 
-<td width="50%" align="center" valign="middle">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9"
-  width="470"
-  height="220"
-  alt="Govind Turkar GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"
-  width="470"
-  height="220"
-  alt="Govind Turkar Most Used Languages"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-  src="./profile/streak.svg"
-  width="650"
-  alt="Govind Turkar GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="./trophy.svg"
-  width="100%"
-  alt="Govind Turkar GitHub Trophies"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Govind Turkar GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2700&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=%E2%9A%99%EF%B8%8F+Backend+Architecture+%26+System+Design;%F0%9F%A4%96+RAG%2C+LLMs+%26+AI+Agents;%F0%9F%9A%80+Production-Ready+Full-Stack+Applications;%F0%9F%90%B3+Docker+%26+Cloud+Deployment;%F0%9F%A7%A0+DSA+%26+Software+Engineering+Fundamentals"
-  alt="Current Focus"
-/>
-
-</div>
+**React · FastAPI · PostgreSQL · WebSockets · Gemini API · Docker**
 
 <br/>
 
-> ⚙️ Building scalable backend systems  
-> 🚀 Designing production-ready full-stack applications  
-> 🤖 Exploring RAG, AI Agents and LLM integrations  
-> 🛠️ Building developer tools and automation systems  
-> 🧠 Learning system design and distributed architectures  
-> 💻 Strengthening DSA and software engineering fundamentals
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### Open to building useful things with great people.
-
-**Full-Stack Development · Backend Engineering · AI/ML · Developer Tools · Open Source**
-
-<br/>
-
-<a href="mailto:govindturkar69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
-</a>
-
-<a href="https://www.linkedin.com/in/govind-turkar24">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=720&lines=Build.+Ship.+Learn.+Improve.;Write+clean+code.+Solve+real+problems.;One+commit+at+a+time."
-  alt="Footer Animation"
-/>
-
-<br/>
-
-### `Build systems that work. Then make them better.`
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:161B22,100:0D1117&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+[![Repository](https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/NexusCode)
 
 </div>
+
+### 🚀 What NexusCode Does
+
+NexusCode is a full-stack collaborative development platform that combines project management, browser-based coding, real-time communication, and AI-assisted development in one workspace.
+
+### ✨ Core Features
+
+- 🗂️ Kanban-based project management
+- 💻 Monaco in-browser code editor
+- ⚡ Real-time collaboration using WebSockets
+- 🤖 Gemini-powered AI development assistant
+- 🔐 Authentication and protected workflows
+- 🗄️ PostgreSQL-backed persistence layer
+- 🐳 Dockerized backend environment
+- 🌐 Production-oriented frontend/backend deployment
+
+### 🏗️ Architecture
+
+```text
+┌─────────────────────────────────┐
+│          React / Vite           │
+│                                 │
+│ Dashboard · Kanban · Code Editor│
+└────────────────┬────────────────┘
+                 │
+          REST + WebSockets
+                 │
+┌────────────────▼────────────────┐
+│             FastAPI             │
+│                                 │
+│ Auth · Projects · AI · Realtime │
+└───────────┬───────────┬─────────┘
+            │           │
+     ┌──────▼─────┐  ┌──▼──────────┐
+     │ PostgreSQL │  │ Gemini API  │
+     └────────────┘  └─────────────┘

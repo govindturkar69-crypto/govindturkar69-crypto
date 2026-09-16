@@ -1,27 +1,14 @@
-<!-- ========================================================= -->
-<!--                     GOVIND TURKAR                           -->
-<!--              PREMIUM GITHUB PROFILE README                 -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:111827,55:1F2937,78:0F172A,100:D4AF37&height=250&section=header&text=Govind%20Turkar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=31&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI-Integrated%20Products&descSize=18&descAlignY=52"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:111827,65:1F2937,100:D4AF37&height=245&section=header&text=Govind%20Turkar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20AI-Integrated%20Applications&descSize=18&descAlignY=51"
   width="100%"
   alt="Govind Turkar"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=850&color=58A6FF&center=true&vCenter=true&width=1000&lines=%3E+Building+Scalable+Full-Stack+Products;%3E+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;%3E+Backend+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;%3E+RAG+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+Machine+Learning;%3E+Idea+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Production"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Full-Stack+Products;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Backend+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;RAG+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+Machine+Learning;Idea+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Production"
   alt="Typing Animation"
-/>
-
-<br/>
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-  width="390"
-  alt="Developer Animation"
 />
 
 <br/><br/>
@@ -45,7 +32,7 @@
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&label=PROFILE%20VIEWS&style=for-the-badge&color=D4AF37"
+  src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&label=PROFILE%20VIEWS&style=flat-square&color=D4AF37"
   alt="Profile Views"
 />
 
@@ -57,55 +44,134 @@
 
 <img
   align="right"
-  width="320"
+  width="325"
   src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-9a50-5cfc0f86af3c.gif"
-  alt="Coding Animation"
+  alt="Developer Animation"
 />
 
-I'm **Govind Turkar**, a final-year **B.Tech Computer Science & Engineering** student and a **Full Stack Developer Intern at KodeKalp Global Technologies**.
+I'm **Govind Turkar**, a final-year **B.Tech Computer Science & Engineering** student and **Full Stack Developer Intern at KodeKalp Global Technologies**.
 
-I enjoy engineering complete software systems — starting with an idea, designing the architecture, building the frontend and backend, modeling the database, integrating APIs and AI, deploying the application, and improving it through iteration.
+I build complete software systems — from modern frontend interfaces and backend APIs to databases, authentication, realtime features, AI integrations, containerization, and deployment.
 
-### 🚀 What I Build
+### 🎯 Core Focus
 
-- Full-stack web platforms
-- Backend APIs and services
-- Realtime applications
-- Developer tools
-- AI-powered applications
-- RAG systems
-- ML-enabled products
-- Automation workflows
-
-### 🎯 Engineering Interests
-
-- **Full-Stack Software Engineering**
-- **Backend Architecture**
-- **System Design**
-- **Database Engineering**
-- **Realtime Systems**
-- **AI / LLM Integration**
-- **DevOps & Automation**
+- 🚀 Full-Stack Product Engineering
+- ⚙️ Backend Architecture & REST APIs
+- 🗄️ Database Design & Caching
+- ⚡ Realtime Systems & WebSockets
+- 🔐 Authentication & Application Security
+- 🤖 RAG, LLMs & AI Agents
+- 🐳 Docker & Production Deployment
+- 🧠 System Design & Software Architecture
 
 <br clear="right"/>
 
 ---
 
-# 🧬 Developer Identity
+# ⚡ Technology Stack
 
 <div align="center">
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+### Databases & Caching
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square"/>
+
+</div>
+
+---
+
+# 🌟 Flagship Project
+
+<div align="center">
+
+## 🧩 NexusCode
+
+### AI-Powered Collaborative Software Development Platform
+
+**Full-Stack · Realtime · AI · DevTools**
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/WebSockets-Realtime-D4AF37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-AI-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker"/>
+
+<br/><br/>
+
+[![Repository](https://img.shields.io/badge/View%20NexusCode-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/NexusCode)
+
+</div>
+
+### Why NexusCode Matters
+
+NexusCode brings several software-development workflows into one product:
+
+- 🗂️ Kanban project management
+- 💻 Monaco browser code editor
+- ⚡ Realtime collaboration with WebSockets
+- 🤖 AI-assisted development with Gemini
+- 🔐 Authentication and protected workflows
+- 🗄️ PostgreSQL persistence
+- 🐳 Dockerized backend
+- 🌐 Production-oriented deployment
+
+### Architecture
+
 ```text
-            GOVIND TURKAR
-                  │
-       ┌──────────┼───────────┐
-       │          │           │
-   Full Stack   Backend      AI / ML
-       │          │           │
-   React       FastAPI       RAG
-   Next.js     Node.js       LLMs
-   TypeScript  REST APIs     Agents
-       │          │           │
-       └──────────┼───────────┘
-                  │
-         Production Software
+                 ┌─────────────────────────────┐
+                 │        React / Vite         │
+                 │                             │
+                 │ Dashboard · Kanban · Editor │
+                 └──────────────┬──────────────┘
+                                │
+                        REST + WebSockets
+                                │
+                 ┌──────────────▼──────────────┐
+                 │           FastAPI           │
+                 │                             │
+                 │ Auth · Projects · AI        │
+                 │ Realtime · Workspace APIs   │
+                 └─────────┬──────────┬────────┘
+                           │          │
+                    ┌──────▼─────┐ ┌──▼──────────┐
+                    │ PostgreSQL │ │ Gemini API  │
+                    └────────────┘ └─────────────┘
+                           │
+                    ┌──────▼──────┐
+                    │   Docker    │
+                    └─────────────┘

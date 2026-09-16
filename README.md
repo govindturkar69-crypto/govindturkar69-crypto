@@ -7,26 +7,26 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Full-Stack+Products;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Backend+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;RAG+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+Machine+Learning;Idea+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Production"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=850&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Full-Stack+Products;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Backend+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;RAG+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+Machine+Learning;Idea+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Production"
   alt="Typing Animation"
 />
 
 <br/><br/>
 
 <a href="mailto:govindturkar69@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/govind-turkar24">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/govindturkar69-crypto">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://govind-turkar-portfolio.turkargovind3.chatgpt.site">
-<img src="https://img.shields.io/badge/Portfolio-Explore-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
 </a>
 
 <br/><br/>
@@ -72,27 +72,27 @@ I build complete software systems — from modern frontend interfaces and backen
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark"/>
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark"/>
 
-### Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
-### Databases & Caching
+### 🗄️ Databases & Caching
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark"/>
 
-### AI / ML
+### 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 
-### DevOps & Tools
+### 🛠️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark"/>
 
@@ -107,12 +107,15 @@ I build complete software systems — from modern frontend interfaces and backen
 <img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Render-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Upstash-0D1117?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🌟 Flagship Project
+# 🌟 Flagship Full-Stack Project
 
 <div align="center">
 
@@ -137,25 +140,22 @@ I build complete software systems — from modern frontend interfaces and backen
 
 </div>
 
-### Why NexusCode Matters
-
-NexusCode brings several software-development workflows into one product:
+## ✨ Why NexusCode Stands Out
 
 - 🗂️ Kanban project management
 - 💻 Monaco browser code editor
 - ⚡ Realtime collaboration with WebSockets
-- 🤖 AI-assisted development with Gemini
+- 🤖 Gemini-powered AI assistant
 - 🔐 Authentication and protected workflows
 - 🗄️ PostgreSQL persistence
 - 🐳 Dockerized backend
-- 🌐 Production-oriented deployment
+- 🌐 Production-oriented architecture
 
-### Architecture
+### 🏗️ Architecture
 
 ```text
                  ┌─────────────────────────────┐
                  │        React / Vite         │
-                 │                             │
                  │ Dashboard · Kanban · Editor │
                  └──────────────┬──────────────┘
                                 │
@@ -163,7 +163,6 @@ NexusCode brings several software-development workflows into one product:
                                 │
                  ┌──────────────▼──────────────┐
                  │           FastAPI           │
-                 │                             │
                  │ Auth · Projects · AI        │
                  │ Realtime · Workspace APIs   │
                  └─────────┬──────────┬────────┘

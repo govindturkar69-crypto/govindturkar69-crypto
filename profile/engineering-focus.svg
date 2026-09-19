@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f15"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="520" rx="26" fill="url(#bg2)"/>
+  <text x="50" y="65" fill="#ffffff" font-size="30" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Engineering Focus Map</text>
+  <text x="50" y="96" fill="#8b949e" font-size="16" font-family="Segoe UI,Arial,sans-serif">How my current work connects across the stack</text>
+
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <line x1="550" y1="265" x2="550" y2="145"/>
+    <line x1="550" y1="265" x2="760" y2="165"/>
+    <line x1="550" y1="265" x2="860" y2="285"/>
+    <line x1="550" y1="265" x2="740" y2="410"/>
+    <line x1="550" y1="265" x2="360" y2="410"/>
+    <line x1="550" y1="265" x2="240" y2="285"/>
+    <line x1="550" y1="265" x2="340" y2="165"/>
+  </g>
+
+  <g fill="#0d1117" stroke="url(#line)" stroke-width="3">
+    <circle cx="550" cy="265" r="62"/>
+    <circle cx="550" cy="145" r="48"/>
+    <circle cx="760" cy="165" r="48"/>
+    <circle cx="860" cy="285" r="48"/>
+    <circle cx="740" cy="410" r="48"/>
+    <circle cx="360" cy="410" r="48"/>
+    <circle cx="240" cy="285" r="48"/>
+    <circle cx="340" cy="165" r="48"/>
+  </g>
+
+  <g fill="#ffffff" font-size="15" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <text x="550" y="260" font-size="19" font-weight="700">Full-Stack</text>
+    <text x="550" y="283" fill="#8b949e">Product Engineering</text>
+
+    <text x="550" y="150">Frontend</text>
+    <text x="760" y="170">Backend</text>
+    <text x="860" y="290">Databases</text>
+    <text x="740" y="415">DevOps</text>
+    <text x="360" y="415">AI / ML</text>
+    <text x="240" y="290">Realtime</text>
+    <text x="340" y="170">System Design</text>
+  </g>
+
+  <g fill="#58a6ff">
+    <circle cx="550" cy="145" r="5"><animate attributeName="r" values="4;8;4" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="165" r="5"><animate attributeName="r" values="4;8;4" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="285" r="5"><animate attributeName="r" values="4;8;4" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="410" r="5"><animate attributeName="r" values="4;8;4" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="410" r="5"><animate attributeName="r" values="4;8;4" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="285" r="5"><animate attributeName="r" values="4;8;4" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="165" r="5"><animate attributeName="r" values="4;8;4" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

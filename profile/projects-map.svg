@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d13"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="470" rx="26" fill="url(#pbg)"/>
+  <text x="45" y="60" fill="#fff" font-size="30" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Project Spectrum</text>
+  <text x="45" y="90" fill="#8b949e" font-size="16" font-family="Segoe UI,Arial,sans-serif">One strong project representing each engineering area</text>
+
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g transform="translate(45 125)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#58a6ff"/>
+      <text x="20" y="34" fill="#58a6ff" font-size="14">FULL-STACK</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">NexusCode</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">Realtime • AI • DevTools</text>
+    </g>
+    <g transform="translate(325 125)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#d4af37"/>
+      <text x="20" y="34" fill="#d4af37" font-size="14">BACKEND / SYSTEMS</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">Redis in Java</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">Networking • Storage • Caching</text>
+    </g>
+    <g transform="translate(605 125)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#8b5cf6"/>
+      <text x="20" y="34" fill="#8b5cf6" font-size="14">AI / RAG</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">VeriDoc</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">RAG • LLM • Citations</text>
+    </g>
+    <g transform="translate(885 125)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#3fb950"/>
+      <text x="20" y="34" fill="#3fb950" font-size="14">DEVTOOLS / CI</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">SelfHealCI</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">Automation • Reliability</text>
+    </g>
+
+    <g transform="translate(185 285)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#f97316"/>
+      <text x="20" y="34" fill="#f97316" font-size="14">APPLIED ML</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">RealtyIQ</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">XGBoost • SHAP • Full-Stack</text>
+    </g>
+    <g transform="translate(465 285)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#ec4899"/>
+      <text x="20" y="34" fill="#ec4899" font-size="14">DEEP LEARNING</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">Stock LSTM</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">PyTorch • Time Series</text>
+    </g>
+    <g transform="translate(745 285)">
+      <rect width="260" height="130" rx="16" fill="#0d1117" stroke="#06b6d4"/>
+      <text x="20" y="34" fill="#06b6d4" font-size="14">FRONTEND / REALTIME</text>
+      <text x="20" y="68" fill="#fff" font-size="24" font-weight="700">Aurora Weather</text>
+      <text x="20" y="98" fill="#8b949e" font-size="14">React • TypeScript • Redis</text>
+    </g>
+  </g>
+</svg>

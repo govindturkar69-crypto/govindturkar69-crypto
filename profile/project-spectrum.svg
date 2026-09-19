@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+  <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#080c12"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="620" rx="28" fill="url(#bgp)"/>
+<text x="50" y="62" fill="#fff" font-size="30" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Best Project by Field</text>
+<text x="50" y="92" fill="#8b949e" font-size="16" font-family="Segoe UI,Arial,sans-serif">A quick visual summary of the strongest project in each area</text>
+
+<g font-family="Segoe UI,Arial,sans-serif">
+  <g transform="translate(50 125)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#58a6ff"/>
+    <text x="20" y="32" fill="#58a6ff" font-size="13">FULL-STACK</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">NexusCode</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Realtime • AI • DevTools</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">React • FastAPI • PostgreSQL</text>
+    <circle cx="225" cy="145" r="6" fill="#58a6ff">
+      <animate attributeName="r" values="4;9;4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(330 125)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#d4af37"/>
+    <text x="20" y="32" fill="#d4af37" font-size="13">BACKEND / SYSTEMS</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">Redis in Java</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Networking • Storage • Caching</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">Java • TCP • Key-Value</text>
+    <circle cx="225" cy="145" r="6" fill="#d4af37">
+      <animate attributeName="r" values="4;9;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(610 125)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#8b5cf6"/>
+    <text x="20" y="32" fill="#8b5cf6" font-size="13">AI / RAG</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">VeriDoc</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">RAG • LLM • Citations</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">Python • Retrieval • Grounding</text>
+    <circle cx="225" cy="145" r="6" fill="#8b5cf6">
+      <animate attributeName="r" values="4;9;4" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(890 125)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#3fb950"/>
+    <text x="20" y="32" fill="#3fb950" font-size="13">DEVTOOLS / CI</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">SelfHealCI</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Automation • Recovery</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">CI/CD • Reliability</text>
+    <circle cx="225" cy="145" r="6" fill="#3fb950">
+      <animate attributeName="r" values="4;9;4" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(190 345)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#f97316"/>
+    <text x="20" y="32" fill="#f97316" font-size="13">APPLIED ML</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">RealtyIQ</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Prediction • Explainability</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">XGBoost • SHAP</text>
+    <circle cx="225" cy="145" r="6" fill="#f97316">
+      <animate attributeName="r" values="4;9;4" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(470 345)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#ec4899"/>
+    <text x="20" y="32" fill="#ec4899" font-size="13">DEEP LEARNING</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">Stock LSTM</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Time Series • Walk-Forward</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">PyTorch • Streamlit</text>
+    <circle cx="225" cy="145" r="6" fill="#ec4899">
+      <animate attributeName="r" values="4;9;4" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(750 345)">
+    <rect width="260" height="180" rx="18" fill="#0d1117" stroke="#06b6d4"/>
+    <text x="20" y="32" fill="#06b6d4" font-size="13">FRONTEND / REALTIME</text>
+    <text x="20" y="72" fill="#fff" font-size="26" font-weight="700">Aurora Weather</text>
+    <text x="20" y="105" fill="#8b949e" font-size="14">Realtime UI • AQI • Cache</text>
+    <text x="20" y="137" fill="#c9d1d9" font-size="14">React • TS • Redis</text>
+    <circle cx="225" cy="145" r="6" fill="#06b6d4">
+      <animate attributeName="r" values="4;9;4" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</g>
+</svg>

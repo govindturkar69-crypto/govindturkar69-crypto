@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#05080d"/>
+    <stop offset="52%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="45%" stop-color="#8b5cf6"/>
+    <stop offset="100%" stop-color="#d4af37"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#58a6ff" stop-opacity=".32"/>
+    <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="1200" height="640" rx="30" fill="url(#bg)"/>
+<circle cx="960" cy="320" r="250" fill="url(#glow)">
+  <animate attributeName="r" values="210;265;210" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<rect x="18" y="18" width="1164" height="604" rx="24" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7">
+  <animate attributeName="opacity" values=".35;.95;.35" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="18" y="18" width="1164" height="62" rx="24" fill="#0b0f14"/>
+<circle cx="52" cy="49" r="8" fill="#ff5f57"/>
+<circle cx="80" cy="49" r="8" fill="#febc2e"/>
+<circle cx="108" cy="49" r="8" fill="#28c840"/>
+<text x="145" y="55" fill="#8b949e" font-size="18" font-family="monospace">govind@github: ~/profile</text>
+
+<g font-family="monospace">
+  <text x="55" y="130" fill="#58a6ff" font-size="18">$ whoami</text>
+  <text x="55" y="185" fill="#ffffff" font-size="52" font-family="Segoe UI,Arial,sans-serif" font-weight="700">Govind Turkar</text>
+  <text x="55" y="230" fill="#c9d1d9" font-size="22">Full-Stack Software Developer</text>
+  <text x="55" y="262" fill="#c9d1d9" font-size="19">Backend Engineering • AI-Integrated Products</text>
+
+  <text x="55" y="330" fill="#d4af37" font-size="17">stack:</text>
+  <text x="135" y="330" fill="#c9d1d9" font-size="17">React • Next.js • Node.js • FastAPI • PostgreSQL</text>
+
+  <text x="55" y="365" fill="#d4af37" font-size="17">systems:</text>
+  <text x="155" y="365" fill="#c9d1d9" font-size="17">WebSockets • Redis • Docker • GitHub Actions</text>
+
+  <text x="55" y="400" fill="#d4af37" font-size="17">ai:</text>
+  <text x="100" y="400" fill="#c9d1d9" font-size="17">RAG • LLMs • AI Agents • PyTorch • XGBoost</text>
+
+  <text x="55" y="465" fill="#58a6ff" font-size="17">$ status</text>
+  <text x="55" y="500" fill="#3fb950" font-size="18">OPEN TO FULL-STACK / BACKEND / SOFTWARE ENGINEERING</text>
+
+  <text x="55" y="555" fill="#8b949e" font-size="16">idea → architecture → code → test → deploy → improve</text>
+  <rect x="555" y="537" width="13" height="24" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<g transform="translate(935 305)">
+  <circle r="118" fill="none" stroke="#21262d" stroke-width="2"/>
+  <circle r="92" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <circle r="67" fill="none" stroke="#21262d" stroke-width="1"/>
+  <path d="M0,-118 A118,118 0 0 1 102,59" fill="none" stroke="#58a6ff" stroke-width="7" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,-92 A92,92 0 0 0 -80,46" fill="none" stroke="#d4af37" stroke-width="6" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,-67 A67,67 0 1 1 -58,34" fill="none" stroke="#8b5cf6" stroke-width="4" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <text x="0" y="-6" text-anchor="middle" fill="#ffffff" font-size="25" font-family="monospace">&lt;/&gt;</text>
+  <text x="0" y="26" text-anchor="middle" fill="#8b949e" font-size="14" font-family="monospace">BUILD • SHIP</text>
+</g>
+
+<rect x="55" y="585" width="0" height="4" rx="2" fill="url(#accent)">
+  <animate attributeName="width" values="0;1040;1040" dur="3s" repeatCount="indefinite"/>
+</rect>
+</svg>

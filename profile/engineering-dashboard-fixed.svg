@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Govind Turkar Engineering Dashboard</title>
+  <desc id="desc">Animated engineering dashboard with GitHub-centered profile rings and engineering focus cards.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b11"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="heroGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="blueLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#7cc0ff"/>
+    </linearGradient>
+
+    <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f3d56b"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <style>
+      .title { font: 700 30px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .subtitle { font: 400 16px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .card-title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .card-sub { font: 400 15px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .label { font: 700 13px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; }
+      .center-main { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .center-sub { font: 400 14px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .mono { font: 400 14px monospace; fill: #c9d1d9; }
+      .glowDot { opacity: .9; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="560" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="524" rx="22" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <text x="50" y="60" class="title">Engineering Dashboard</text>
+  <text x="50" y="90" class="subtitle">A premium visual overview of my GitHub-centered engineering profile</text>
+
+  <!-- top row -->
+  <g filter="url(#softShadow)">
+    <rect x="50" y="125" width="320" height="160" rx="18" fill="#0d1117" stroke="#58a6ff" stroke-opacity=".9"/>
+    <text x="72" y="156" class="label" fill="#58a6ff">FRONTEND</text>
+    <text x="72" y="192" class="card-title">Product Interfaces</text>
+    <text x="72" y="223" class="card-sub">React • Next.js • TypeScript</text>
+    <text x="72" y="248" class="card-sub">Responsive UI • Tailwind CSS</text>
+    <rect x="72" y="262" width="0" height="6" rx="3" fill="#58a6ff">
+      <animate attributeName="width" values="0;230;230" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="830" y="125" width="320" height="160" rx="18" fill="#0d1117" stroke="#8b5cf6" stroke-opacity=".9"/>
+    <text x="852" y="156" class="label" fill="#8b5cf6">AI / ML</text>
+    <text x="852" y="192" class="card-title">Intelligent Products</text>
+    <text x="852" y="223" class="card-sub">RAG • LLMs • AI Agents</text>
+    <text x="852" y="248" class="card-sub">PyTorch • XGBoost • SHAP</text>
+    <rect x="852" y="262" width="0" height="6" rx="3" fill="#8b5cf6">
+      <animate attributeName="width" values="0;220;220" dur="3.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- center github profile animation -->
+  <g transform="translate(600 210)">
+    <circle cx="0" cy="0" r="132" fill="url(#heroGlow)">
+      <animate attributeName="r" values="122;138;122" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="0" cy="0" r="118" fill="none" stroke="#30363d" stroke-width="2"/>
+    <circle cx="0" cy="0" r="92" fill="none" stroke="#30363d" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="67" fill="none" stroke="#30363d" stroke-width="1.2"/>
+
+    <path d="M-88,-79 A118,118 0 0 1 55,-104" fill="none" stroke="url(#blueLine)" stroke-width="7" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-31,-87 A92,92 0 1 1 36,85" fill="none" stroke="url(#purpleLine)" stroke-width="6" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-52,42 A67,67 0 0 0 42,52" fill="none" stroke="url(#goldLine)" stroke-width="6" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4.8s" repeatCount="indefinite"/>
+    </path>
+
+    <circle cx="0" cy="0" r="56" fill="#111827" stroke="#58a6ff" stroke-opacity=".35"/>
+    <text x="0" y="-14" text-anchor="middle" class="center-main">@govindturkar69-crypto</text>
+    <text x="0" y="10" text-anchor="middle" class="center-sub">GitHub Profile</text>
+    <text x="0" y="34" text-anchor="middle" class="mono">Full-Stack • Backend • AI</text>
+
+    <circle cx="-92" cy="-73" r="5" fill="#58a6ff" class="glowDot">
+      <animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50" cy="-102" r="5" fill="#d4af37" class="glowDot">
+      <animate attributeName="r" values="4;8;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="39" cy="84" r="5" fill="#8b5cf6" class="glowDot">
+      <animate attributeName="r" values="4;8;4" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- bottom row -->
+  <g filter="url(#softShadow)">
+    <rect x="50" y="340" width="320" height="160" rx="18" fill="#0d1117" stroke="#d4af37" stroke-opacity=".9"/>
+    <text x="72" y="371" class="label" fill="#d4af37">BACKEND</text>
+    <text x="72" y="407" class="card-title">APIs &amp; Realtime Systems</text>
+    <text x="72" y="438" class="card-sub">FastAPI • Node.js • Express</text>
+    <text x="72" y="463" class="card-sub">REST APIs • WebSockets</text>
+    <rect x="72" y="477" width="0" height="6" rx="3" fill="#d4af37">
+      <animate attributeName="width" values="0;245;245" dur="2.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="440" y="340" width="320" height="160" rx="18" fill="#0d1117" stroke="#3fb950" stroke-opacity=".9"/>
+    <text x="462" y="371" class="label" fill="#3fb950">DATA</text>
+    <text x="462" y="407" class="card-title">Persistence &amp; Caching</text>
+    <text x="462" y="438" class="card-sub">PostgreSQL • MongoDB • MySQL</text>
+    <text x="462" y="463" class="card-sub">Redis • Query Design • Storage</text>
+    <rect x="462" y="477" width="0" height="6" rx="3" fill="#3fb950">
+      <animate attributeName="width" values="0;230;230" dur="3.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="830" y="340" width="320" height="160" rx="18" fill="#0d1117" stroke="#06b6d4" stroke-opacity=".9"/>
+    <text x="852" y="371" class="label" fill="#06b6d4">DELIVERY</text>
+    <text x="852" y="407" class="card-title">DevOps &amp; Deployment</text>
+    <text x="852" y="438" class="card-sub">Docker • GitHub Actions</text>
+    <text x="852" y="463" class="card-sub">Vercel • Render • Upstash</text>
+    <rect x="852" y="477" width="0" height="6" rx="3" fill="#06b6d4">
+      <animate attributeName="width" values="0;210;210" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,93 +1,81 @@
 <div align="center">
 
-<img
-  src="./profile/terminal-hero.svg"
-  width="100%"
-  alt="Govind Turkar Developer Terminal"
-/>
+<img src="./profile/terminal-hero.svg" width="100%" alt="Govind Turkar Developer Terminal"/>
 
 <br/><br/>
 
 <a href="mailto:govindturkar69@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
-
 <a href="https://www.linkedin.com/in/govind-turkar24">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/govindturkar69-crypto">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://govind-turkar-portfolio.turkargovind3.chatgpt.site">
   <img src="https://img.shields.io/badge/Portfolio-Explore-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&label=PROFILE%20VIEWS&style=flat-square&color=D4AF37"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=govindturkar69-crypto&label=PROFILE%20VIEWS&style=flat-square&color=D4AF37" alt="Profile Views"/>
 
 </div>
 
----
+👨‍💻 Know About Me
 
-# 👨‍💻 Know About Me
+<img align="right" width="315" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-9a50-5cfc0f86af3c.gif" alt="Developer Animation"/>
 
-<img
-  align="right"
-  width="315"
-  src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-9a50-5cfc0f86af3c.gif"
-  alt="Developer Animation"
-/>
+I'm Govind Turkar, a final-year B.Tech Computer Science & Engineering student and Full Stack Developer Intern at KodeKalp Global Technologies.
 
-I'm **Govind Turkar**, a final-year **B.Tech Computer Science & Engineering** student and **Full Stack Developer Intern at KodeKalp Global Technologies**.
+I build complete software products — from frontend interfaces and backend APIs to databases, authentication, realtime systems, AI integrations, automation, containerization, and deployment.
 
-I build complete software products — from modern frontend interfaces and backend APIs to databases, authentication, realtime systems, AI integrations, automation, containerization, and deployment.
+🎯 Core Focus
 
-### 🎯 Core Focus
+🚀 Full-Stack Product Engineering
 
-- 🚀 Full-Stack Product Engineering
-- ⚙️ Backend Architecture & REST APIs
-- 🗄️ Database Design, Caching & Persistence
-- ⚡ Realtime Systems & WebSockets
-- 🔐 Authentication & Application Security
-- 🤖 RAG, LLMs, AI Agents & Applied ML
-- 🐳 Docker & Production Deployment
-- 🧠 System Design & Software Architecture
+⚙️ Backend Architecture & REST APIs
+
+🗄️ Database Design, Caching & Persistence
+
+⚡ Realtime Systems & WebSockets
+
+🔐 Authentication & Application Security
+
+🤖 RAG, LLMs, AI Agents & Applied ML
+
+🐳 Docker & Production Deployment
+
+🧠 System Design & Software Architecture
 
 <br clear="right"/>
 
----
-
-# ⚡ Technology Stack
+⚡ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark"/>
 
-### 🎨 Frontend
+🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark"/>
 
-### ⚙️ Backend
+⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
-### 🗄️ Databases & Caching
+🗄️ Databases & Caching
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark"/>
 
-### 🤖 AI / ML
+🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 
-### 🛠️ DevOps & Tools
+🛠️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark"/>
 
@@ -103,25 +91,21 @@ I build complete software products — from modern frontend interfaces and backe
 <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square"/>
 <img src="https://img.shields.io/badge/Upstash-0D1117?style=flat-square"/>
 
 </div>
 
----
-
-# 🌟 Flagship Project
+🌟 Flagship Project
 
 <div align="center">
 
-## 🧩 NexusCode
+🧩 NexusCode
 
-### AI-Powered Collaborative Software Development Platform
+AI-Powered Collaborative Software Development Platform
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Frontend+%2B+Backend+%2B+Database+%2B+Realtime+%2B+AI;A+Complete+Full-Stack+Engineering+Project"
-  alt="NexusCode Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=D4AF37&center=true&vCenter=true&width=950&lines=Frontend+%2B+Backend+%2B+Database+%2B+Realtime+%2B+AI;A+Complete+Full-Stack+Engineering+Project;From+Idea+to+Architecture+to+Deployment" alt="NexusCode Animation"/>
 
 <br/>
 
@@ -134,58 +118,88 @@ I build complete software products — from modern frontend interfaces and backe
 
 <br/><br/>
 
-[![Repository](https://img.shields.io/badge/View%20NexusCode-181717?style=for-the-badge&logo=github)](https://github.com/govindturkar69-crypto/NexusCode)
+
 
 </div>
 
-### ✨ Why It Stands Out
+✨ Why It Stands Out
 
-- 🗂️ Kanban-based project management
-- 💻 Monaco browser code editor
-- ⚡ Realtime collaboration using WebSockets
-- 🤖 Gemini-powered AI assistant
-- 🔐 Authentication and protected workflows
-- 🗄️ PostgreSQL persistence
-- 🐳 Dockerized backend architecture
-- 🌐 End-to-end full-stack integration
+🗂️ Kanban-based project management
 
-### 🏗️ Architecture Overview
+💻 Monaco browser code editor
 
-| Layer | Details |
-|---|---|
-| **Frontend** | React, Vite, dashboard UI, Kanban workflows, Monaco editor |
-| **Communication** | REST APIs + WebSockets |
-| **Backend** | FastAPI, authentication, projects, workspace APIs, AI integration |
-| **Database** | PostgreSQL |
-| **AI Layer** | Gemini API |
-| **Deployment / Runtime** | Dockerized backend setup |
+⚡ Realtime collaboration using WebSockets
 
----
+🤖 Gemini-powered AI assistant
 
-# 🏅 Best Project by Field
+🔐 Authentication and protected workflows
+
+🗄️ PostgreSQL persistence
+
+🐳 Dockerized backend architecture
+
+🌐 End-to-end full-stack integration
+
+🏗️ Architecture Overview
+
+Layer
+
+Engineering
+
+Frontend
+
+React, Vite, dashboard UI, Kanban, Monaco editor
+
+Communication
+
+REST APIs + WebSockets
+
+Backend
+
+FastAPI, authentication, projects, workspace APIs
+
+Database
+
+PostgreSQL
+
+AI Layer
+
+Gemini API
+
+Runtime
+
+Dockerized environment
+
+🧭 Engineering Dashboard
+
+<div align="center">
+<img src="./profile/engineering-dashboard.svg" width="100%" alt="Engineering Dashboard"/>
+</div>
+
+🏅 Best Project by Field
+
+<div align="center">
+<img src="./profile/project-spectrum.svg" width="100%" alt="Best Project by Engineering Field"/>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🌐 Full-Stack  
-### 🧩 NexusCode
-Complete full-stack platform with realtime collaboration, AI integration, database persistence, and containerized backend.
+🌐 Full-Stack — NexusCode
 
-`React` `FastAPI` `PostgreSQL` `WebSockets` `Docker`
+Complete full-stack platform with realtime collaboration, AI integration, persistence, and containerized backend.
 
-[View Repository →](https://github.com/govindturkar69-crypto/NexusCode)
+View Repository →
 
 </td>
 <td width="50%" valign="top">
 
-## ⚙️ Backend / Systems  
-### 🧱 Build Your Own Redis
-Java-based in-memory key-value database exploring backend internals and networking.
+⚙️ Backend / Systems — Redis in Java
 
-`Java` `Networking` `Caching` `Systems`
+In-memory key-value database exploring networking, storage, caching, and backend internals.
 
-[View Repository →](https://github.com/govindturkar69-crypto/build-your-own-redis-in-java)
+View Repository →
 
 </td>
 </tr>
@@ -193,24 +207,20 @@ Java-based in-memory key-value database exploring backend internals and networki
 <tr>
 <td width="50%" valign="top">
 
-## 🛠️ DevTools / CI  
-### SelfHealCI
-Self-healing CI and developer automation focused on failure analysis, recovery, and reliability.
+🛠️ DevTools — SelfHealCI
 
-`CI/CD` `Automation` `DevTools`
+CI automation, failure analysis, automated recovery, and reliability-focused developer tooling.
 
-[View Repository →](https://github.com/govindturkar69-crypto/SelfHealCI)
+View Repository →
 
 </td>
 <td width="50%" valign="top">
 
-## 📄 RAG / LLM  
-### VeriDoc
-Citation-grounded document intelligence assistant using retrieval-augmented generation.
+📄 RAG / LLM — VeriDoc
 
-`Python` `RAG` `LLMs`
+Citation-grounded RAG assistant for document retrieval and source-grounded Q&A.
 
-[View Repository →](https://github.com/govindturkar69-crypto/VeriDoc)
+View Repository →
 
 </td>
 </tr>
@@ -218,24 +228,20 @@ Citation-grounded document intelligence assistant using retrieval-augmented gene
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 AI Agents  
-### LearnAgent
-Agent-based experimentation focused on intelligent workflows and AI automation.
+🤖 AI Agents — LearnAgent
 
-`Python` `LLMs` `AI Agents`
+Experiments with LLM-driven agent workflows and intelligent automation.
 
-[View Repository →](https://github.com/govindturkar69-crypto/LearnAgent)
+View Repository →
 
 </td>
 <td width="50%" valign="top">
 
-## 🏠 Applied ML  
-### RealtyIQ
-Real-estate analytics platform with machine-learning prediction and explainability.
+🏠 Applied ML — RealtyIQ
 
-`Next.js` `FastAPI` `MongoDB` `XGBoost` `SHAP`
+Real-estate analytics with XGBoost prediction and SHAP explainability.
 
-[View Repository →](https://github.com/govindturkar69-crypto/RealtyIQ)
+View Repository →
 
 </td>
 </tr>
@@ -243,191 +249,141 @@ Real-estate analytics platform with machine-learning prediction and explainabili
 <tr>
 <td width="50%" valign="top">
 
-## 📈 Deep Learning  
-### Stock Price LSTM
-LSTM-based stock-price and market-direction prediction pipeline.
+📈 Deep Learning — Stock LSTM
 
-`Python` `PyTorch` `Streamlit`
+PyTorch LSTM pipeline with leakage-aware features and walk-forward evaluation.
 
-[View Repository →](https://github.com/govindturkar69-crypto/stock-price-lstm)
+View Repository →
 
 </td>
 <td width="50%" valign="top">
 
-## 🎨 Frontend / Realtime UI  
-### Aurora Weather
-Animated realtime weather application with AQI, caching, and responsive frontend.
+🎨 Frontend / Realtime — Aurora Weather
 
-`React` `TypeScript` `Node.js` `Redis`
+Realtime weather interface with responsive animation, AQI, and Redis caching.
 
-[View Repository →](https://github.com/govindturkar69-crypto/aurora-weather)
+View Repository →
 
 </td>
 </tr>
 </table>
 
----
-
-# 🌐 Full-Stack Engineering
+🌐 Full-Stack Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🏠 RealtyIQ  
-**ML-Powered Real Estate Analytics Platform**
+🏠 RealtyIQ
 
-- Next.js frontend
-- FastAPI + Express services
-- MongoDB
-- JWT authentication
-- XGBoost prediction
-- SHAP explainability
+ML-Powered Real Estate Analytics
 
-`Next.js` `FastAPI` `MongoDB` `XGBoost`
+Next.js frontend
 
-[View Repository →](https://github.com/govindturkar69-crypto/RealtyIQ)
+FastAPI + Express services
 
-</td>
-<td width="50%" valign="top">
+MongoDB
 
-## 🌦️ Aurora Weather  
-**Realtime Weather Platform**
+JWT authentication
 
-- React + TypeScript
-- Node.js / Express
-- Redis caching
-- AQI monitoring
-- Weather API integration
-- Responsive animated UI
+XGBoost prediction
 
-`React` `TypeScript` `Node.js` `Redis`
+SHAP explainability
 
-[View Repository →](https://github.com/govindturkar69-crypto/aurora-weather)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 👥 TalentAI  
-**AI-Powered Recruitment Platform**
-
-Candidate management, recruitment workflows, analytics, and AI-assisted hiring.
-
-`Full Stack` `AI` `Analytics`
-
-[View Repository →](https://github.com/govindturkar69-crypto/TalentAI-Recruitment-Platform)
+Next.js FastAPI MongoDB XGBoost SHAP
 
 </td>
 <td width="50%" valign="top">
 
-## 🎓 Placement Analytics  
-**Placement Management & Analytics**
+🌦️ Aurora Weather
 
-Student, company, placement, authentication, reporting, and analytics workflows.
+Realtime Weather Platform
 
-`Python` `Flask` `MySQL` `Analytics`
+React + TypeScript
 
-[View Repository →](https://github.com/govindturkar69-crypto/Placement-Analytics)
+Node.js / Express
+
+Redis caching
+
+AQI monitoring
+
+Weather API integration
+
+Animated responsive UI
+
+React TypeScript Node.js Redis
 
 </td>
 </tr>
 </table>
 
----
-
-# ⚙️ Backend & Systems Engineering
+⚙️ Backend & Systems Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🧱 Build Your Own Redis  
-**In-Memory Key-Value Database in Java**
+🧱 Build Your Own Redis
 
-- TCP networking
-- In-memory storage
-- Key-value architecture
-- Data structures
-- Caching concepts
-- Backend internals
+TCP networking
 
-`Java` `Networking` `Systems`
+In-memory storage
 
-[View Repository →](https://github.com/govindturkar69-crypto/build-your-own-redis-in-java)
+Key-value architecture
 
-</td>
-<td width="50%" valign="top">
+Caching concepts
 
-## 🛠️ SelfHealCI  
-**Self-Healing CI & Developer Automation**
+Backend internals
 
-- CI/CD automation
-- Failure analysis
-- Automated recovery
-- Reliability engineering
-- Developer tooling
-
-`CI/CD` `Automation` `DevTools`
-
-[View Repository →](https://github.com/govindturkar69-crypto/SelfHealCI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🔌 Product Store API  
-REST backend project focused on API architecture and CRUD service design.
-
-[View Repository →](https://github.com/govindturkar69-crypto/Product-Store-API)
+Java Networking Systems
 
 </td>
 <td width="50%" valign="top">
 
-## 🔄 Cross-Stack CRUD  
-Engineering experiment comparing CRUD implementations across multiple stacks.
+🛠️ SelfHealCI
 
-[View Repository →](https://github.com/govindturkar69-crypto/Cross-Stack-CRUD)
+CI/CD automation
+
+Failure analysis
+
+Automated recovery
+
+Reliability engineering
+
+Developer tooling
+
+CI/CD Automation DevTools
 
 </td>
 </tr>
 </table>
 
----
-
-# 🤖 AI, RAG & Agent Engineering
+🤖 AI, RAG & Agent Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 📄 VeriDoc  
-**Citation-Grounded RAG Assistant**
+📄 VeriDoc
 
-- Retrieval-Augmented Generation
-- Document retrieval
-- LLM-powered Q&A
-- Citation grounding
+Retrieval-Augmented Generation
 
-`Python` `RAG` `LLMs`
+Document retrieval
 
-[View Repository →](https://github.com/govindturkar69-crypto/VeriDoc)
+LLM Q&A
+
+Citation grounding
+
+Python RAG LLMs
 
 </td>
 <td width="50%" valign="top">
 
-## 🤖 LearnAgent  
-**AI Agent Experimentation**
+🤖 LearnAgent
 
-Exploring agent workflows, intelligent automation, and LLM-driven software behavior.
+Agent workflows, LLM-driven automation, and intelligent software behavior.
 
-`Python` `LLMs` `AI Agents`
-
-[View Repository →](https://github.com/govindturkar69-crypto/LearnAgent)
+Python LLMs AI Agents
 
 </td>
 </tr>
@@ -435,84 +391,70 @@ Exploring agent workflows, intelligent automation, and LLM-driven software behav
 <tr>
 <td width="50%" valign="top">
 
-## 🧠 Spatial Craft AI  
-**Applied AI Engineering**
+🧠 Spatial Craft AI
 
-Intelligent workflows and practical AI integration in modern software.
-
-[View Repository →](https://github.com/govindturkar69-crypto/Spatial-Craft-AI)
+Applied AI workflows and modern intelligent application engineering.
 
 </td>
 <td width="50%" valign="top">
 
-## 👥 TalentAI  
-**AI-Integrated Recruitment**
+👥 TalentAI
 
-Full-stack recruitment workflows with analytics and AI-assisted features.
-
-[View Repository →](https://github.com/govindturkar69-crypto/TalentAI-Recruitment-Platform)
+AI-assisted recruitment workflows with analytics and candidate management.
 
 </td>
 </tr>
 </table>
 
----
-
-# 📈 Machine Learning & Deep Learning
+📈 Machine Learning & Deep Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🏠 RealtyIQ  
-**Applied Machine Learning**
+🏠 RealtyIQ
 
-- XGBoost
-- Feature engineering
-- SHAP explainability
-- Model-serving API
+Applied Machine Learning
+
+XGBoost prediction, feature engineering, model-serving API, and SHAP explainability.
 
 </td>
 <td width="50%" valign="top">
 
-## 📈 Stock Price LSTM  
-**Deep-Learning Time-Series Pipeline**
+📈 Stock Price LSTM
 
-- PyTorch LSTM
-- Leakage-aware features
-- Log-return targets
-- Walk-forward evaluation
+Deep-Learning Time-Series Pipeline
 
-`Python` `PyTorch` `Streamlit`
+PyTorch LSTM
 
-[View Repository →](https://github.com/govindturkar69-crypto/stock-price-lstm)
+Leakage-aware features
+
+Log-return targets
+
+Walk-forward evaluation
 
 </td>
 </tr>
 </table>
 
----
-
-# 🎨 Frontend Engineering
+🎨 Frontend Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🌦️ Aurora Weather  
-**Interactive Realtime UI**
+🌦️ Aurora Weather
 
-Modern animated frontend backed by live weather and environmental data.
+Interactive realtime UI backed by live weather and environmental data.
 
 </td>
 <td width="50%" valign="top">
 
-## ✍️ My Blog App  
-**Modern Next.js Application**
+✍️ My Blog App
 
-App Router, Server Components, Server Actions, search, filtering, and SEO.
+Modern Next.js application using App Router, Server Components, Server Actions, search, filtering, and SEO.
 
-[View Repository →](https://github.com/govindturkar69-crypto/my-blog-app)
+View Repository →
 
 </td>
 </tr>
@@ -523,188 +465,64 @@ App Router, Server Components, Server Actions, search, filtering, and SEO.
 
 <br/>
 
-### 🦷 Denteex Landing Page
+🦷 Denteex Landing Page
 
-Responsive modern landing-page implementation.
+Responsive modern frontend implementation.
 
-[View Repository →](https://github.com/govindturkar69-crypto/Denteex-Landing-Page)
+View Repository →
 
 </details>
 
----
-
-# 🗺️ Engineering Map
-
-<table>
-<tr>
-<td valign="top">
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive UI
-
-</td>
-<td valign="top">
-
-### API & Realtime
-- REST APIs
-- JWT
-- Authentication
-- WebSockets
-
-</td>
-<td valign="top">
-
-### Backend
-- Node.js
-- Express
-- FastAPI
-- Python
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Data Layer
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-
-</td>
-<td valign="top">
-
-### AI / ML
-- RAG
-- LLMs
-- AI Agents
-- XGBoost
-- SHAP
-- PyTorch
-
-</td>
-<td valign="top">
-
-### Production
-- Docker
-- GitHub Actions
-- Vercel
-- Render
-- Upstash
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Trophy Cabinet
+🏆 Trophy Cabinet
 
 <div align="center">
 
-<img
-  src="./trophy.svg"
-  width="100%"
-  alt="Govind Turkar GitHub Trophies"
-/>
+<img src="./trophy.svg" width="100%" alt="Govind Turkar GitHub Trophies"/>
 
 <br/><br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=820&lines=Consistency+builds+engineering+depth.;Every+project+is+a+step+forward.;Keep+learning.+Keep+shipping."
-  alt="Trophy Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Consistency+builds+engineering+depth.;Every+project+is+a+step+forward.;Build.+Ship.+Learn.+Improve." alt="Trophy Animation"/>
 
 </div>
 
----
+📊 Contribution & GitHub Activity
 
-# 📊 Contribution & GitHub Activity
-
-## 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9"
-  width="470"
-  height="220"
-  alt="GitHub Stats"
-/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=govindturkar69-crypto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=58A6FF&text_color=C9D1D9" width="470" height="220" alt="GitHub Stats"/>
 </td>
 <td width="50%" align="center" valign="middle">
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"
-  width="470"
-  height="220"
-  alt="Most Used Languages"
-/>
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=govindturkar69-crypto&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" width="470" height="220" alt="Most Used Languages"/>
 </td>
 </tr>
 </table>
-
 </div>
 
----
-
-## 🔥 Contribution Streak
+🔥 Contribution Streak
 
 <div align="center">
-
-<img
-  src="./profile/streak.svg"
-  width="660"
-  alt="Govind Turkar Contribution Streak"
-/>
-
+<img src="./profile/streak.svg" width="660" alt="Govind Turkar Contribution Streak"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Govind Turkar Contribution Snake"
-  />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/govindturkar69-crypto/govindturkar69-crypto/output/github-contribution-grid-snake.svg" width="100%" alt="Govind Turkar Contribution Snake"/>
 </picture>
-
 </div>
 
----
-
-# 🎯 Current Focus
+🎯 Current Focus
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=D4AF37&center=true&vCenter=true&width=1000&lines=%F0%9F%8C%90+Production-Grade+Full-Stack+Applications;%E2%9A%99%EF%B8%8F+Backend+Architecture+%26+System+Design;%E2%9A%A1+Realtime+Systems+%26+WebSockets;%F0%9F%94%90+Authentication+%26+Application+Security;%F0%9F%A4%96+RAG%2C+LLMs+%26+AI+Agents;%F0%9F%90%B3+Docker+%26+Cloud+Deployment"
-  alt="Current Focus"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=D4AF37&center=true&vCenter=true&width=1000&lines=%F0%9F%8C%90+Production-Grade+Full-Stack+Applications;%E2%9A%99%EF%B8%8F+Backend+Architecture+%26+System+Design;%E2%9A%A1+Realtime+Systems+%26+WebSockets;%F0%9F%94%90+Authentication+%26+Application+Security;%F0%9F%A4%96+RAG%2C+LLMs+%26+AI+Agents;%F0%9F%90%B3+Docker+%26+Cloud+Deployment" alt="Current Focus"/>
 
 </div>
 
@@ -712,104 +530,79 @@ Responsive modern landing-page implementation.
 <tr>
 <td width="50%" valign="top">
 
-### 🔨 Building
-- Production-grade applications
-- Backend APIs and services
-- Realtime collaboration
-- AI-integrated products
-- Developer automation
-- Secure authentication flows
+🔨 Building
+
+Production-grade applications
+
+Backend APIs and services
+
+Realtime collaboration
+
+AI-integrated products
+
+Developer automation
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Learning Deeper
-- System design
-- Distributed systems
-- Backend scalability
-- Software architecture
-- Performance engineering
-- DSA & algorithms
+📚 Learning Deeper
+
+System design
+
+Distributed systems
+
+Backend scalability
+
+Software architecture
+
+DSA & algorithms
 
 </td>
 </tr>
 </table>
 
----
-
-# 🧠 Engineering Philosophy
+🧠 Engineering Philosophy
 
 <div align="center">
 
-### `Understand → Design → Build → Test → Ship → Measure → Improve`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Understand+the+Problem.;Design+the+System.;Build+Cleanly.;Test+Honestly.;Ship+Reliably.;Improve+Continuously." alt="Engineering Philosophy"/>
 
-<br/>
+Understand → Design → Build → Test → Ship → Measure → Improve
 
-**Strong engineering is not about using the most technologies.**
-
-**It is about choosing the right tools and building systems that remain understandable, maintainable, scalable, and useful.**
+Build systems that work. Engineer them to last.
 
 </div>
 
----
-
-# 💼 Professional Direction
+🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full--Stack%20Engineering-OPEN-D4AF37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Engineering-OPEN-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-OPEN-238636?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--Integrated%20Applications-OPEN-8E75B2?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=950&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+something+interesting%3F;Working+on+a+challenging+product%3F;Need+a+Full-Stack+Developer%3F;Let's+connect+and+build."
-  alt="Connect Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=950&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+something+interesting%3F;Working+on+a+challenging+product%3F;Need+a+Full-Stack+Developer%3F;Let's+connect+and+build." alt="Connect Animation"/>
 
 <br/>
 
-**Full-Stack · Backend · AI · Developer Tools · Open Source**
+Full-Stack · Backend · AI · Developer Tools · Open Source
 
 <br/><br/>
 
 <a href="mailto:govindturkar69@gmail.com">
   <img src="https://img.shields.io/badge/Email-Let's%20Talk-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
-
 <a href="https://www.linkedin.com/in/govind-turkar24">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/govindturkar69-crypto">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1100&color=8B949E&center=true&vCenter=true&width=950&lines=Frontend+to+Backend.;Architecture+to+Deployment.;Code+to+Production.;One+Commit+Closer+to+Better+Engineering."
-  alt="Footer Typing"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2900&pause=1100&color=8B949E&center=true&vCenter=true&width=950&lines=Frontend+to+Backend.;Architecture+to+Deployment.;Code+to+Production.;One+Commit+Closer+to+Better+Engineering." alt="Footer Typing"/>
 
 <br/>
 
-## `Frontend → Backend → Intelligence → Production`
+Frontend → Backend → Intelligence → Production
 
-### `Build systems that work. Engineer them to last.`
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,35:1F2937,70:111827,100:0D1117&height=145&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,35:1F2937,70:111827,100:0D1117&height=145&section=footer" width="100%" alt="Footer"/>
 
 </div>

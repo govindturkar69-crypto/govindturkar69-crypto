@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+  <rect x="16" y="16" width="1168" height="588" rx="22" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect x="16" y="16" width="1168" height="58" rx="22" fill="#0d1117"/>
+  <circle cx="50" cy="45" r="8" fill="#ff5f57"/>
+  <circle cx="78" cy="45" r="8" fill="#febc2e"/>
+  <circle cx="106" cy="45" r="8" fill="#28c840"/>
+  <text x="145" y="51" fill="#8b949e" font-size="18" font-family="monospace">govind@github: ~/profile</text>
+
+  <!-- left terminal art -->
+  <g font-family="monospace" font-size="18" fill="#7d8590">
+    <text x="58" y="130">        .--.</text>
+    <text x="58" y="154">       |o_o |</text>
+    <text x="58" y="178">       |:_/ |</text>
+    <text x="58" y="202">      //   \ \</text>
+    <text x="58" y="226">     (|     | )</text>
+    <text x="58" y="250">    /'\_   _/`\</text>
+    <text x="58" y="274">    \___)=(___/</text>
+  </g>
+
+  <text x="55" y="330" fill="#58a6ff" font-size="17" font-family="monospace">$ whoami</text>
+  <text x="55" y="358" fill="#ffffff" font-size="27" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Govind Turkar</text>
+  <text x="55" y="389" fill="#c9d1d9" font-size="16" font-family="monospace">Full-Stack Software Developer</text>
+  <text x="55" y="416" fill="#c9d1d9" font-size="16" font-family="monospace">Backend • AI-integrated apps</text>
+
+  <text x="55" y="465" fill="#d4af37" font-size="16" font-family="monospace">Focus:</text>
+  <text x="120" y="465" fill="#c9d1d9" font-size="16" font-family="monospace">build → ship → improve</text>
+
+  <text x="55" y="510" fill="#8b949e" font-size="15" font-family="monospace">github.com/govindturkar69-crypto</text>
+
+  <!-- vertical split -->
+  <line x1="420" y1="105" x2="420" y2="555" stroke="#30363d" stroke-width="2"/>
+
+  <!-- right info -->
+  <g font-family="monospace" font-size="17">
+    <text x="470" y="125" fill="#8b949e">govind@github</text>
+    <text x="610" y="125" fill="#8b949e">────────────────────────────────────</text>
+
+    <text x="470" y="165" fill="#d4af37">Role:</text>
+    <text x="600" y="165" fill="#c9d1d9">Full-Stack Developer Intern</text>
+
+    <text x="470" y="198" fill="#d4af37">Education:</text>
+    <text x="600" y="198" fill="#c9d1d9">B.Tech Computer Science &amp; Engineering</text>
+
+    <text x="470" y="231" fill="#d4af37">Frontend:</text>
+    <text x="600" y="231" fill="#c9d1d9">React, Next.js, TypeScript, Tailwind</text>
+
+    <text x="470" y="264" fill="#d4af37">Backend:</text>
+    <text x="600" y="264" fill="#c9d1d9">FastAPI, Node.js, Express, REST APIs</text>
+
+    <text x="470" y="297" fill="#d4af37">Databases:</text>
+    <text x="600" y="297" fill="#c9d1d9">PostgreSQL, MongoDB, MySQL, Redis</text>
+
+    <text x="470" y="330" fill="#d4af37">Realtime:</text>
+    <text x="600" y="330" fill="#c9d1d9">WebSockets</text>
+
+    <text x="470" y="363" fill="#d4af37">AI / ML:</text>
+    <text x="600" y="363" fill="#c9d1d9">RAG, LLMs, Agents, PyTorch, XGBoost</text>
+
+    <text x="470" y="396" fill="#d4af37">DevOps:</text>
+    <text x="600" y="396" fill="#c9d1d9">Docker, GitHub Actions, Vercel, Render</text>
+
+    <text x="470" y="437" fill="#58a6ff">Best Projects:</text>
+    <text x="600" y="437" fill="#c9d1d9">NexusCode • SelfHealCI • VeriDoc</text>
+    <text x="600" y="466" fill="#c9d1d9">RealtyIQ • Redis in Java • Aurora Weather</text>
+
+    <text x="470" y="507" fill="#58a6ff">Status:</text>
+    <text x="600" y="507" fill="#3fb950">OPEN TO FULL-STACK / BACKEND / SWE</text>
+  </g>
+
+  <!-- animated cursor -->
+  <rect x="470" y="540" width="12" height="22" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- accent line -->
+  <rect x="470" y="565" width="610" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="0;610;610" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

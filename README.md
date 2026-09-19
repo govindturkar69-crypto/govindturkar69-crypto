@@ -173,7 +173,7 @@ Dockerized environment
 🧭 Engineering Dashboard
 
 <div align="center">
-<img src="./profile/engineering-dashboard.svg" width="100%" alt="Engineering Dashboard"/>
+<img src="./profile/engineering-dashboard-fixed.svg" width="100%" alt="Engineering Dashboard"/>
 </div>
 
 🏅 Best Project by Field
